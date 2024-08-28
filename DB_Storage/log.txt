@@ -1,0 +1,11 @@
+[Query] use university at 2024-02-25T21:29:22.085407600
+[Query] create table courses (id, name, credits) at 2024-02-25T21:34:07.405138100
+[Query] insert into courses values(1, Mathematics, 5) at 2024-02-25T21:34:42.724158100
+[Query] select * from courses at 2024-02-25T21:35:02.750608900
+[Query] select * from courses where id = 1 at 2024-02-25T21:35:19.228928300
+[Query] drop table courses at 2024-02-25T21:35:32.823786200
+[Query] create database employee at 2024-02-25T22:05:30.642740400
+[Query] create database employee at 2024-02-25T22:05:41.879708500
+[Query] use employee at 2024-02-25T22:06:29.768671500
+[Query] create database employee at 2024-02-25T22:07:15.292895600
+[Query] create database employee  at 2024-02-25T22:07:47.252221400
